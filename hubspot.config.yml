@@ -1,0 +1,12 @@
+defaultPortal: awana
+portals:
+  - name: awana
+    portalId: 21651071
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CMfF1q_9LxIJAA0AAAAA4A0DGP-8qQog4reFFSju6QwyFAj04dEvbylJrCLSElL3Ue_2vSf7OigAAARBAAAAeAAAAAAAAAAAAAAAAAAAAAQAAMAHAP7_MTwAAAYAAABgQhTfuAdjIOn5nmy6ZFRNr1ZkmmQ3IEoDbmExUgBaAA
+        expiresAt: '2022-03-29T13:55:19.370Z'
+    personalAccessKey: >-
+      CiRlNTgyMzYwYy1iNmQxLTRiYWEtYmQ2MS04OTM1ZTJkNTcwMDgQ_7ypChjit4UVKhkABeaRgseiGVw4Cg3DtWPQWkjuVw1jkl0cSgNuYTE

@@ -1,0 +1,16 @@
+{
+    "hubspot.beta": true,
+    "editor.tabSize": 4,
+    "editor.autoIndent": "none",
+    "editor.formatOnSave": false,
+    //"emmet.includeLanguages": {
+    //    "html-hubl": "*.html",
+    //    "css-hubl": "*.css"
+    //},
+    "files.associations": {
+        "*.html": "html-hubl",
+        "*.css": "css-hubl"
+    }
+
+
+}
